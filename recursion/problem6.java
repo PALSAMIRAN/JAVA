@@ -1,4 +1,4 @@
-//gibven teo numbers p7q, find the value of p^q using a recursive function
+//given teo numbers p7q, find the value of p^q using a recursive function
 package Recursion;
 
 public class problem6 {

@@ -9,7 +9,7 @@ public class problem5 {
             return n;
         }
         /* 
-        //recursive work ----> small ans
+        //recursive work ----> smallans
         int smallAns = SumOfDigits(n / 10);
         //self work
         return smallAns + n % 10;
